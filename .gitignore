@@ -1,4 +1,8 @@
 node_modules
-/test
 .claude
-README.md
+*.log
+logs/
+src/logs/
+CHECKLIST-ENTREGA.md
+DOCKER-INSTRUCTIONS.md
+nueva-entrega.txt
